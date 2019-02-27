@@ -1,3 +1,9 @@
+python-teng (3.0.2) stable; urgency=medium
+
+  * teng 3.0.2
+
+ -- Filip Volejnik <filip.volejnik@firma.seznam.cz>  Wed, 27 Feb 2019 12:58:08 +0100
+
 python-teng (3.0.1) stable; urgency=medium
 
   * teng 3.0.0
